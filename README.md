@@ -10,7 +10,7 @@ Feel free to try it yourself! :)
 ## Demo:
 Look at the app's performance:
 
-<img src="resources/demo.gif" />![](resources/demo.gif")
+<img src="resources/demo.gif" width="640" />![](resources/demo.gif")
 
 ## Usage:
 
@@ -32,6 +32,6 @@ The tensorflow model that I used is a simple CNN model. The model is defined in 
 
 The default model:
 
-<img src="resources/model_plot.png" />![](resources/model_plot.png")
+<img src="resources/model_plot.png" width="960"/>![](resources/model_plot.png")
 
 
