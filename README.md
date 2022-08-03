@@ -34,4 +34,8 @@ The default model:
 
 <img src="https://drive.google.com/uc?export=view&id=1yagTC9W_LYesvRoLAqD7UEZJp71OPTs-"/>
 
-
+<html>
+  <head>
+    <meta name="google-site-verification" content="ZcEl1P2d9S4ThTeVp3YzyXS9bgeszI9iFO83B1gbeik" />
+  </head>
+</html>
